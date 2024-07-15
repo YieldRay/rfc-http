@@ -3,6 +3,7 @@ import { pagefindPlugin } from "vitepress-plugin-pagefind";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/rfc-http/",
   title: "RFC-HTTP",
   description: "HTTP相关RFC概述",
   lang: "zh-CN",
