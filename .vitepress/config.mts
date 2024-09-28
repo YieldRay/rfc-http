@@ -17,7 +17,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Start", link: "/start" },
-      { text: "RFC4918", link: "https://rfc4918.488848.xyz/" },
+      { text: "RFC4918", link: "https://rfc4918.yieldray.fun/" },
     ],
     sidebar: [
       { text: "RFC2068", link: "/rfc2068" },
